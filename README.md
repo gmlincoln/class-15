@@ -32,7 +32,6 @@ Students should know:
 * Basic Python data types: `int`, `str`, `list`
 * `print()` function and simple expressions
 
-If not, spend 10–15 minutes quickly reviewing these.
 
 ## 3. What is a loop?
 
