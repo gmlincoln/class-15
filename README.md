@@ -204,20 +204,6 @@ print(squares)
 
 **Debugging tip:** Use `print()` to check values each iteration. Ask: does the condition change as expected?
 
----
-
-## 11. Classroom lesson plan (45–60 minutes)
-
-**Goal:** Students should understand `for`, `while`, `break`, `continue`, and practice with small tasks.
-
-* 0–5 min: Warm-up and prerequisites check
-* 5–15 min: Explain `for` with live coding and examples
-* 15–25 min: `range()` practice and short exercises
-* 25–35 min: `while` loop and infinite loop example
-* 35–45 min: `break`, `continue`, and `else` with examples
-* 45–60 min: Exercises, review answers, Q&A
-
-Optional homework: build a simple guessing game using `while` and `break`.
 
 ---
 
@@ -293,11 +279,3 @@ Answers provided so students or teacher can check quickly.
 * `range(start, stop, step)` — generate sequence
 
 ---
-
-If you want, I can:
-
-* Export this README as a `.md` file ready to download,
-* Add more student exercises (easy/medium/hard),
-* Convert it to a printable handout or slides.
-
-Happy teaching! 👩‍🏫👨‍🏫
