@@ -210,7 +210,7 @@ print(squares)
 
 **Exercise 1:** Print even numbers from 2 to 10.
 
-**Student solution:**
+**Solution:**
 
 ```python
 for i in range(2, 11, 2):
@@ -219,7 +219,7 @@ for i in range(2, 11, 2):
 
 **Exercise 2:** Sum numbers from 1 to `n` (input from user).
 
-**Student solution:**
+**Solution:**
 
 ```python
 n = int(input('Enter n: '))
@@ -231,7 +231,7 @@ print('Sum =', sum)
 
 **Exercise 3:** Ask the user to guess a number (1 to 5). If guessed correctly, print "Correct" and stop.
 
-**Student solution:**
+**Solution:**
 
 ```python
 secret = 3
@@ -246,7 +246,7 @@ while True:
 
 **Exercise 4 (medium):** Given a list of numbers, print only the positive ones using `continue`.
 
-**Student solution:**
+**Solution:**
 
 ```python
 nums = [-2, 3, 0, -1, 5]
