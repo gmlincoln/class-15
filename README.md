@@ -207,7 +207,7 @@ print(squares)
 
 ---
 
-## 12. Practice exercises (with answers)
+## 11. Practice exercises (with answers)
 
 **Exercise 1:** Print even numbers from 2 to 10.
 
@@ -258,14 +258,6 @@ for x in nums:
 ```
 
 Answers provided so students or teacher can check quickly.
-
----
-
-## 13. Teaching tips and assessment
-
-* Use live coding and ask students to predict output before running.
-* Give short pair-programming tasks (2–3 minutes) to keep engagement.
-* For assessment: give 5 multiple choice + 2 short coding tasks.
 
 ---
 
